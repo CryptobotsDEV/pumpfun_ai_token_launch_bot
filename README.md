@@ -79,7 +79,7 @@ This repository contains a **LIMITED PREVIEW** of the PumpFun AI Token Launcher.
 
 ## 🎯 Why Choose CryptoBots AI Launcher?
 
-### 🆚 **vs Free Alternatives**
+### **Other Alternatives**
 
 #### 🤖 **AI Metadata Generation**
 - ❌ **Free Tools**: Manual token creation only
